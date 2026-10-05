@@ -14,6 +14,7 @@ style2b.iff
 style3a.iff
 # style4_2a
 # KO24+STNDCV_v2_a
+# NORWAY_a
 style3b.iff
 # style4_2b
 # KO24+STNDCV_v2_b

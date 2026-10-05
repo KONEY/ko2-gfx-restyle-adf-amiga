@@ -6,11 +6,11 @@
 ## KICK OFF PITCHES ##
 #
 pdat.nor
-# OSLO26_PM1
 # PITCH13_2
+# OSLO26_PM1
 fbgraph4.nor
-# OSLO26_PM1
 # PITCH13_2
+# OSLO26_PM1
 #
 pdat.wet
 # PITCH_22
