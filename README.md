@@ -1,8 +1,8 @@
 ## Amiga Kick Off 2 Graphics Restyle v1.1
-![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/splash_biglogo.png?raw=true)
+![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/main/imgs/splash_biglogo.png?raw=true)
 ##### Based on Kick Off 2 Competition Version v1.39 by Steve Camber
 ##### https://kickoff2.com/#ko2cv
-##### https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga
+##### https://github.com/KONEY/ko2-gfx-restyle-adf-amiga
 ##### https://ko-gathering.com/
 ##### https://koney-scanlines.tumblr.com/post/811285410600960000/kick-off-2-2026-graphic-restyle-wip-screenshots
 ---------------------------------------------
@@ -45,14 +45,14 @@ Basically player reskin logic is based on reverting back to somehow colours were
 However these descriptions should not be taken as absolute because a lot of "creativity" was added to designs. Some kit may have a few differcences between Team A and B. Use the following diagram as a reference.
 
 #### KITS diagrams
-![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/kits.png?raw=true)
+![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/main/imgs/kits.png?raw=true)
 
 
 ---------------------------------------------
 ### TEAM COLORS
 Available colours from which to choose have been updated. Some colours changed and others were replaced with new ones.
 #### new KIT colour palette
-![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/Team_Colors.png?raw=true)
+![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/main/imgs/Team_Colors.png?raw=true)
 
 
 ---------------------------------------------
@@ -61,7 +61,7 @@ The original sprite from KO1 is used; no more spots. Old design was much cleaner
 Colours working nicely for ball are canonical white, light grey, yellow, orange and brown (early soccer leather balls).  
 It's technically possible to have a green ball, maybe not a good idea :)
 
-![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/new_ball2x.png?raw=true)
+![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/main/imgs/new_ball2x.png?raw=true)
 
 
 ---------------------------------------------
@@ -84,7 +84,7 @@ All designs were made on a real Amiga with CRT, to ensure the best visual result
 + Competition Version v3
 
 
-![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/pitch_tiles.png?raw=true)
+![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/main/imgs/pitch_tiles.png?raw=true)
 
 KickOff2Online version of these designs will also be available. 
 
@@ -123,13 +123,13 @@ Steve Camber, which can be only described as a KickOff hero, for all the collabo
 
 ------------------------------------------------------------
 
-![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/three-colors-kit.png?raw=true)
+![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/main/imgs/three-colors-kit.png?raw=true)
 
-![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/KO2CV137_GFX_012.png?raw=true)
+![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/main/imgs/KO2CV137_GFX_012.png?raw=true)
 
-![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/KO2CV137_GFX_001.png?raw=true)
+![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/main/imgs/KO2CV137_GFX_001.png?raw=true)
 
-![alt text](https://github.com/KONEY/ko2-gfx-restyle-v1-adf-amiga/blob/main/imgs/KO2CV137_GFX_014.png?raw=true)
+![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/main/imgs/KO2CV137_GFX_014.png?raw=true)
 
 
 
