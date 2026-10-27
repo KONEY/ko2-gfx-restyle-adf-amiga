@@ -16,7 +16,7 @@ GfxCfgPalette:		DC.W $001A,$001F,$006E,$00EF,$0FFF,$0CCD,$0A40,$0222	; $0765
 			DC.W $0700,$0A00,$0E00,$0F60,$0FF0,$0F8F,$0F0A,$0906
 			DC.W $060B,$0050,$00C0,$00F0		; Kit colours. 20xW
 
-GfxCfgTitle:		DC.B	"-GFX ReFIX v2.0-",0	; 17xb
+GfxCfgTitle:		DC.B	"-GFX ReFIX v2.1-",0	; 17xb
 GfxCfgNameNor:		DC.B	"PITCH13",0,0		; 9xB
 GfxCfgNameWet:		DC.B	"SQUARES",0,0
 GfxCfgNameSog:		DC.B	"PITCH18",0,0
