@@ -130,6 +130,8 @@ Steve Camber, which can be only described as a KickOff hero, for all the collabo
 
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/v2.1/imgs/194.png?raw=true)
 
+![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/v2.1/imgs/195.png?raw=true)
+
 
 
 
