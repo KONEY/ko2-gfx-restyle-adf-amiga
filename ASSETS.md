@@ -1,6 +1,6 @@
 ### KITS
 
-*Style 1 uses original KickOff 1 spritesheet*
+*Style 1 uses original KickOff 2 spritesheet*
 -----------------------------------------------------------------------------------------------------
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/v2.1/imgs/kit1.bl1.png?raw=true) ![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/v2.1/imgs/kit1b.bl1.png?raw=true)
 
@@ -24,13 +24,13 @@
 
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/v2.1/imgs/style4a.png?raw=true) ![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/v2.1/imgs/style4b.png?raw=true)
 
-*Style 5 is also bit creative*
+*Style 5 is quite as original but with pants same color of diagonal line*
 -----------------------------------------------------------------------------------------------------
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/v2.1/imgs/kit5.bl1.png?raw=true) ![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/v2.1/imgs/kit5b.bl1.png?raw=true)
 
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/v2.1/imgs/style5a.png?raw=true) ![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/v2.1/imgs/style5b.png?raw=true)
 
-*Style 6 is VERY creative, other Team's primary color is borrowed for the pants*
+*Style 6 is just like 4 (default CV kit) but with blue shadows, for use with Synturf pitch (the blue one)*
 -----------------------------------------------------------------------------------------------------
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/v2.1/imgs/kit6.bl1.png?raw=true) ![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/v2.1/imgs/kit6b.bl1.png?raw=true)
 
