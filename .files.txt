@@ -16,3 +16,4 @@ sprites.dat
 title
 # splash_biglogo
 README.md
+ASSETS.md
