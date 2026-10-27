@@ -53,7 +53,7 @@ However these descriptions should not be taken as absolute because a lot of "cre
 Available colours from which to choose have been updated. Some colours changed and others were replaced with new ones. 
 v2 has some small updates.
 #### new KIT colour palette
-![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/v2.1/Team_Colors.png?raw=true)
+![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/v2.1/imgs/Team_Colors.png?raw=true)
 
 
 ---------------------------------------------
