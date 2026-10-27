@@ -19,7 +19,7 @@ This skips v2.0 because it's already shipped with CV 1.39. When a new CV will be
 We need to explain a bit how KO1 graphics are organised: the game runs on a 16-colour screen; 8 colours are reserved for the pitch and 8 for players + the ball. 
 These 8 are assigned as follows:
 1. Transparency
-2. Player hair (Black)
+2. Player hair (black)
 3. Player skin (pink)
 4. Team A primary colour (red)
 5. Team B primary colour (blue)
@@ -93,6 +93,7 @@ All designs were made on a real Amiga with CRT, to ensure the best visual result
 + Corner selectors are taken from KO2. Again, the old design made much more sense.
 + A newly designed loading screen.
 
+More infos on current assets: https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/v2.1/ASSETS.md
 
 ------------------------------------------------------------
 ### TOOLS USED
