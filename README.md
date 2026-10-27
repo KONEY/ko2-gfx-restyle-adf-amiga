@@ -72,16 +72,16 @@ New designs are for visuals only; different behaviours of pitches are unwanted.
 All designs were made on a real Amiga with CRT, to ensure the best visual results for the real world. Because you're not using an emulator, right?!!!
 
 #### Normal pitches become: 
-+ Competition Version v1
-+ Horizontal Stripes
-+ Soggy restyle
-+ Player Manager restyle
++ Pitch 13 (from KO2 online)
++ Squares (Player Manager based)
++ Pitch 18 (from KO2 online)
++ Dried (Soggy after a sunny Summer :)
 
 #### Final Whistle pitches become:
-+ Competition Version v2
-+ Amiga billboards :)
-+ Wembley restyle
-+ Competition Version v3
++ Classic restyle
++ Muddy
++ Bright
++ Synturf (blue pitch)
 
 
 ![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/main/imgs/pitch_tiles.png?raw=true)
