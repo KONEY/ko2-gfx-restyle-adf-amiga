@@ -45,7 +45,7 @@ Basically player reskin logic is based on reverting back to somehow colours were
 However these descriptions should not be taken as absolute because a lot of "creativity" was added to designs. Some kit may have a few differences between Team A and B. Use the following diagram as a reference.
 
 #### KITS diagrams
-![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/v2.1/imgs/kits_new.png?raw=true)
+![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/v2.1/imgs/201.png?raw=true)
 
 
 ---------------------------------------------
