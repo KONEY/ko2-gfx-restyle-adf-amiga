@@ -45,14 +45,15 @@ Basically player reskin logic is based on reverting back to somehow colours were
 However these descriptions should not be taken as absolute because a lot of "creativity" was added to designs. Some kit may have a few differences between Team A and B. Use the following diagram as a reference.
 
 #### KITS diagrams
-![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/main/imgs/kits.png?raw=true)
+![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/v2.1/imgs/kits.png?raw=true)
 
 
 ---------------------------------------------
 ### TEAM COLORS
-Available colours from which to choose have been updated. Some colours changed and others were replaced with new ones.
+Available colours from which to choose have been updated. Some colours changed and others were replaced with new ones. 
+v2 has some small updates.
 #### new KIT colour palette
-![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/main/imgs/Team_Colors.png?raw=true)
+![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/v2.1/imgs/Team_Colors.png?raw=true)
 
 
 ---------------------------------------------
@@ -84,7 +85,7 @@ All designs were made on a real Amiga with CRT, to ensure the best visual result
 + Synturf (blue pitch)
 
 
-![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/main/imgs/pitch_tiles.png?raw=true)
+![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/v2.1/imgs/pitch_tiles.png?raw=true)
 
 
 ------------------------------------------------------------
@@ -121,13 +122,13 @@ Steve Camber, which can be only described as a KickOff hero, for all the collabo
 
 ------------------------------------------------------------
 
-![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/main/imgs/three-colors-kit.png?raw=true)
+![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/v2.1/imgs/188.png?raw=true)
 
-![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/main/imgs/KO2CV137_GFX_012.png?raw=true)
+![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/v2.1/imgs/192.png?raw=true)
 
-![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/main/imgs/KO2CV137_GFX_001.png?raw=true)
+![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/v2.1/imgs/200.png?raw=true)
 
-![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/main/imgs/KO2CV137_GFX_014.png?raw=true)
+![alt text](https://github.com/KONEY/ko2-gfx-restyle-adf-amiga/blob/v2.1/imgs/194.png?raw=true)
 
 
 
