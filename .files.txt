@@ -15,5 +15,4 @@ sounds
 sprites.dat
 title
 # splash_biglogo
-# SPLASH_HAALAND_1
 README.md
